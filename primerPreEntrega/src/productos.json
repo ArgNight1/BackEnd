@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "producto de prueba",
+    "description": "esto es un producto de prueba",
+    "price": 250,
+    "status": false,
+    "category": "Categoría 1",
+    "thumbnail": ["public/img/1.jpg"],
+    "code": "abc1",
+    "stock": 0
+  },
+  {
+    "id": 2,
+    "title": "prueba",
+    "description": "esto es prueba",
+    "price": 2950,
+    "status": true,
+    "category": "Categoría 2",
+    "thumbnail": ["public/img/2.jpg"],
+    "code": "abc2",
+    "stock": 3980
+  },
+  {
+    "id": 3,
+    "title": "un prd mas",
+    "description": "Esto otrooo",
+    "price": 3010,
+    "status": true,
+    "category": "Categoría 3",
+    "thumbnail": ["public/img/3.jpg"],
+    "code": "234",
+    "stock": 140
+  },
+  {
+    "id": 4,
+    "title": "asdasdasd",
+    "description": "Esto otssrooo",
+    "price": 30210,
+    "status": true,
+    "category": "Categoria1",
+    "thumbnail": ["public/img/3.jpg"],
+    "code": "2134",
+    "stock": 1240
+  },
+  {
+    "id": 5,
+    "title": "Segundo producto de prueba",
+    "description": "Esto es otro producto de prueba",
+    "price": 300,
+    "status": true,
+    "category": "Categoria2",
+    "thumbnail": ["public/img/3.jpg"],
+    "code": "x",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "title": "un prd mas",
+    "description": "Esto otrooo",
+    "price": 3010,
+    "status": false,
+    "category": "Categoria2",
+    "thumbnail": ["public/img/2.jpg"],
+    "code": "20034",
+    "stock": 140
+  },
+  {
+    "id": 7,
+    "title": "producto de prueba",
+    "description": "esto es un producto de prueba",
+    "price": 200,
+    "status": true,
+    "category": "Categoria3",
+    "thumbnail": ["public/img/3.jpg"],
+    "code": "abc3p",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "Segundo producto de prueba",
+    "description": "Esto es otro producto de prueba",
+    "price": 300,
+    "status": true,
+    "category": "Categoria3",
+    "thumbnail": ["public/img/3.jpg"],
+    "code": "x2",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "title": "un prd mas",
+    "description": "Esto otrooo",
+    "price": 3010,
+    "status": true,
+    "category": "Categoria3",
+    "thumbnail": ["public/img/3.jpg"],
+    "code": "11234",
+    "stock": 140
+  },
+  {
+    "id": 10,
+    "title": "asdasds",
+    "description": "Esto otrooo",
+    "price": 5,
+    "status": true,
+    "category": "Categoria3",
+    "thumbnail": ["public/img/3.jpg"],
+    "code": "2d34d",
+    "stock": 1430
+  }
+]
